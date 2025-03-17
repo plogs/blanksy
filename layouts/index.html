@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<img src="/images/oh-my-god-cute.png" alt="That's so cute... the way you draw on other people's stuff and impose your ideas." style="float: right; margin-top: -2em;">
+
+<div class="custom-home">
+<p>Leave no trace.</p>
+</div>
+
+
+<h2>Recent Posts</h2>
+    {{ range .Pages }}
+      <article>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+        <p>{{ .Summary }}</p>
+      </article>
+    {{ end }}
+
+{{ end }}
