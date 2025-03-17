@@ -8,12 +8,19 @@
 
 
 <h2>Recent Posts</h2>
-    {{ range .Pages }}
-      <article>
-        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 
+{{ range where .Pages "Title" "ne" "About" }}
+
+    <article>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <p>{{ .Summary }}</p>
-      </article>
-    {{ end }}
+    </article>
+
+{{ end }}
+
+
+
+
+
 
 {{ end }}

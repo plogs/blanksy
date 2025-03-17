@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'blanksy .org'
 
 theme = "paper"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1

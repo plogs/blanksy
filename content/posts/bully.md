@@ -6,5 +6,5 @@ draft: false
 
 To cause (someone) to do something by means of force or coercion.
 
-"Look at me."
+"Look at me!"
 
