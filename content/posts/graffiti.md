@@ -5,11 +5,10 @@ draft: false
 ---
 
 
-Wikipedia: [Graffiti](https://en.wikipedia.org/wiki/Graffiti)
-
-Graffiti (singular _graffiti_ or _graffito_, the latter only used in
+[Graffiti](https://en.wikipedia.org/wiki/Graffiti)
+(singular _graffiti_ or _graffito_, the latter only used in
 graffiti archeology) is writing or drawings made on a wall or other
-surface, usually without permission and within public view.
+surface, usually without permission [see also Bully] and within public view.
 
 Modern graffiti is a controversial subject. 
 

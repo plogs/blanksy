@@ -6,5 +6,6 @@ draft: false
 
 To cause (someone) to do something by means of force or coercion.
 
+In the case of graffiti, one forces others to,
 "Look at me!"
 
