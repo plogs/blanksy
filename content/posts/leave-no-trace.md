@@ -1,6 +1,7 @@
 ---
 title: "Leave no trace"
-date: 2025-03-17T12:16:48-07:00
+date: 2025-03-15T17:13:11Z
+weight: 2
 draft: false
 ---
 

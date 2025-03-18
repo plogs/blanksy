@@ -1,5 +1,6 @@
 ---
 title: "Graffiti"
+weight: 1
 date: 2025-03-17T12:21:42-07:00
 draft: false
 ---

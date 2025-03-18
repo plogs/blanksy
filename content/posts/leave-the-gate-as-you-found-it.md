@@ -1,6 +1,7 @@
 ---
 title: "Leave the gate as you found it"
 date: 2025-03-17T12:13:32-07:00
+weight: 3
 draft: false
 ---
 
