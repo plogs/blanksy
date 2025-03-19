@@ -8,7 +8,7 @@ I don't like bullying behaviour, even when it's ostensibly for a
 `good cause'.
 
 <center>
-<img src="/images/leave-no-trace-wall.jpg" alt="Leave no trace wall." style="width: 80%; height: auto; max-width: 100%;">
+<a href='/'><img src="/images/leave-no-trace-wall.jpg" alt="Leave no trace wall." style="width: 80%; height: auto; max-width: 100%;"></a>
 </center>
 
 The problem (as always) with `good cause' is that your good cause may not
