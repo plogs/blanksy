@@ -1488,4 +1488,4 @@
 }@property --tw-ring-offset-shadow{syntax: "*";
   inherits: false;
   initial-value: 0 0 #0000;
-}@keyframes spin{to{transform:rotate(360deg)}}:root{--theme-background:#ffffff;--content-background:#ffffff}body{background-color:#fff}.site{background-color:#fff}@reference './app.css'
+}@keyframes spin{to{transform:rotate(360deg)}}@reference './app.css'
