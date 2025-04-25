@@ -5,7 +5,7 @@ draft: false
 ---
 
 I don't like bullying behaviour, even when it's ostensibly for a
-`good cause'.
+'good cause'.
 
 <center>
 <a href='/'><img src="/images/leave-no-trace-wall.jpg" alt="Leave no trace wall." style="width: 80%; height: auto; max-width: 100%;"></a>
