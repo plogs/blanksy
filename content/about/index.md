@@ -11,10 +11,13 @@ I don't like bullying behaviour, even when it's ostensibly for a
 <a href='/'><img src="/images/leave-no-trace-wall.jpg" alt="Leave no trace wall." style="width: 80%; height: auto; max-width: 100%;"></a>
 </center>
 
-The problem (as always) with `good cause' is that your good cause may not
+The problem (as always) with 'a good cause' is that your good cause may not
 be the same as my good cause.
 
 One person's artistic political expression is another person's propaganda.
+
+Same goes for art. Maybe I don't want a cute girl with a heart
+balloon adorning my concrete canvas.
 
 Paint on _your_ wall if you want. Looks great!
 
